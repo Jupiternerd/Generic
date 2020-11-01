@@ -1,0 +1,2 @@
+# renpy_generic
+ generic
